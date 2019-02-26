@@ -1,4 +1,4 @@
-def multiply(x = 1, y = 1):
+def multiply(x, y = 1):
     return x*y
 
 without_arg = multiply()
